@@ -1,6 +1,6 @@
 {
   "name": "@vaporlogicgp/env-schema-validator",
-  "version": "1.0.4",
+  "version": "0.2.0",
   "description": "Validate required environment variables at startup",
   "repository": {
     "type": "git",
@@ -11,8 +11,7 @@
     "env",
     "environment",
     "validate",
-    "config",
-    "dotenv"
+    "config"
   ],
   "author": "config-utils-oss",
   "license": "MIT"
